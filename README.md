@@ -3,7 +3,7 @@
 
 **Project Goal**: Focus on COVID-19 contact tracing using machine learning and deep learning methods.
 
-**Documentation and Paper**: To be published soon.
+**Documentation and Paper**: To be published.
 
 **Description**: This repository contains codes related to research on data synthesis and machine learning model development to fight COVID-19. Each step in the development process is documented and will be updated soon. The process is broken down into a chain of notebooks as described below.
 
